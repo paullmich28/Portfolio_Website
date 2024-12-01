@@ -1,82 +1,73 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		title: "Portfolio of Paulus Michael Leang",
+		name: "Paulus Michael Leang",
+		email: "paullmich28@gmail.com",
 		logo: "../logo.png",
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
-		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
+		github: "https://github.com/paullmich28",
+		linkedin: "https://www.linkedin.com/in/paulus-leang-a27a2a28a/?trk=opento_sprofile_topcard",
+		instagram: "https://instagram.com/paull_mich",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "iOS Developer & Web Developer.",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"I am a student at Universitas Multimedia Nusantara, currently in my 6th semester. Additionally, I am part of Cohort 7 at the Apple Developer Academy @ BINUS, where I hone my skills in iOS development, particularly using SwiftUI and UIKit. With a strong foundation in web development and a knack for designing interactive applications, I aim to create innovative solutions that combine technology with creativity.",
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "Hello! I'm Paulus Michael Leang!",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
-	},
-
-	articles: {
-		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
-		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
+			"As a student at Universitas Multimedia Nusantara and the Apple Developer Academy @ BINUS, I've had the privilege of working on a variety of impactful projects. These experiences have not only honed my technical skills but also fueled my passion for solving real-world problems through technology. Below, you'll find some of my most notable projects. Feel free to explore them and reach out if you'd like to collaborate or discuss new ideas!",
 	},
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Rumah Ilham",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+				"A website for Rumah Ilham, an NGO in Indonesia tackling the problems of environmental pollution at the household level. In Jogjakarta, there's an estimated 300,000 heads of cattle. Their biogas digesters turn cow waste from a toxic source of water pollution into high-quality organic compost that can also fully replace fossil fuel-based fertilisers.",
+			logo: "https://via.placeholder.com/150", // Placeholder image link
+			linkText: "Visit Website",
+			link: "https://rumah-ilham.org/",
 		},
 
 		{
-			title: "Project 2",
+			title: "Manlingua",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-			linkText: "View Project",
-			link: "https://github.com",
+				"An engaging Mandarin language-learning app for export-import business built with SwiftUI, featuring interactive story-driven lessons to make learning new languages fun and effective.",
+			logo: "https://via.placeholder.com/150",
+			linkText: "View on GitHub",
+			link: "https://github.com/MProductionMacro/Manlingua2",
 		},
 
 		{
-			title: "Project 3",
+			title: "Wavern",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-			linkText: "View Project",
-			link: "https://github.com",
+				"A gamified productivity app designed to help users stay motivated while managing tasks and building habits, developed using Swift and SwiftUI.",
+			logo: "https://via.placeholder.com/150",
+			linkText: "View on GitHub",
+			link: "https://github.com/BANDDIT/Wavern",
 		},
 
 		{
-			title: "Project 4",
+			title: "gARffiti",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+				"An augmented reality app that allows users to draw virtual graffiti in 3D spaces using ARKit and SceneKit. This app merges art with technology in an exciting way.",
+			logo: "https://via.placeholder.com/150",
+			linkText: "View on GitHub",
+			link: "https://github.com/paullmich28/gARffiti",
 		},
 
 		{
-			title: "Project 5",
+			title: "BeSafe",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+				"A safety-focused navigation app to guide users to the nearest safe location while being followed. Built with SwiftUI and MapKit, this app combines innovative technology with user safety. This app is also available in watchOS",
+			logo: "https://via.placeholder.com/150",
+			linkText: "View on GitHub",
+			link: "https://github.com/Kirby-Team-6/besafe",
 		},
 	],
 };

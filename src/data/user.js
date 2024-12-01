@@ -29,7 +29,7 @@ const INFO = {
 			title: "Rumah Ilham",
 			description:
 				"A website for Rumah Ilham, an NGO in Indonesia tackling the problems of environmental pollution at the household level. In Jogjakarta, there's an estimated 300,000 heads of cattle. Their biogas digesters turn cow waste from a toxic source of water pollution into high-quality organic compost that can also fully replace fossil fuel-based fertilisers.",
-			logo: "https://via.placeholder.com/150", // Placeholder image link
+			logo: "projects/rumah-ilham.png", // Placeholder image link
 			linkText: "Visit Website",
 			link: "https://rumah-ilham.org/",
 		},
@@ -38,7 +38,7 @@ const INFO = {
 			title: "Manlingua",
 			description:
 				"An engaging Mandarin language-learning app for export-import business built with SwiftUI, featuring interactive story-driven lessons to make learning new languages fun and effective.",
-			logo: "https://via.placeholder.com/150",
+			logo: "projects/manlingua.png",
 			linkText: "View on GitHub",
 			link: "https://github.com/MProductionMacro/Manlingua2",
 		},
@@ -47,7 +47,7 @@ const INFO = {
 			title: "Wavern",
 			description:
 				"A gamified productivity app designed to help users stay motivated while managing tasks and building habits, developed using Swift and SwiftUI.",
-			logo: "https://via.placeholder.com/150",
+			logo: "projects/wavern.png",
 			linkText: "View on GitHub",
 			link: "https://github.com/BANDDIT/Wavern",
 		},
@@ -56,7 +56,7 @@ const INFO = {
 			title: "gARffiti",
 			description:
 				"An augmented reality app that allows users to draw virtual graffiti in 3D spaces using ARKit and SceneKit. This app merges art with technology in an exciting way.",
-			logo: "https://via.placeholder.com/150",
+			logo: "projects/garffiti.png",
 			linkText: "View on GitHub",
 			link: "https://github.com/paullmich28/gARffiti",
 		},
@@ -65,7 +65,7 @@ const INFO = {
 			title: "BeSafe",
 			description:
 				"A safety-focused navigation app to guide users to the nearest safe location while being followed. Built with SwiftUI and MapKit, this app combines innovative technology with user safety. This app is also available in watchOS",
-			logo: "https://via.placeholder.com/150",
+			logo: "projects/besafe.png",
 			linkText: "View on GitHub",
 			link: "https://github.com/Kirby-Team-6/besafe",
 		},
